@@ -1,5 +1,5 @@
 """
-Escriba el codigo que ejecute la accion solicitada en cada pregunta.
+Escriba el codigo que ejecute la accion solicitada en cada pregunta..
 """
 
 # pylint: disable=import-outside-toplevel
